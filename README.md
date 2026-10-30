@@ -64,5 +64,99 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-x402supply-com is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://x402supply.com/
+x402 Supply provides a suite of pay-per-call API tools designed for AI agents, enabling developers to integrate specialized functionalities such as timezone conversion, token verification, and data extraction on a per-call basis. Operating on the Base blockchain with USDC payments, the platform eliminates the need for traditional API keys or accounts, offering a frictionless, usage‑based billing model. The service catalog includes tools for financial data, compliance checks, and AI‑enhanced utilities, all accessible via simple HTTP endpoints.
+
+**Areas:** Company · API · AI · Pay-per-call · Blockchain · Tools
+
+## x402supply-com on APIs.io
+
+Everything profiled for x402supply-com is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/x402supply-com/](https://apis.io/providers/x402supply-com/)** — or go straight to one of the APIs or properties below.
+
+### APIs (3)
+
+- [x402supply-com Chess Eval API](https://apis.io/apis/x402supply-com/x402supply-com-chess-eval-api/) — The chess-eval API from x402supply-com — 3 operation(s) for chess-eval.
+- [x402supply-com Endpoint Diligence API](https://apis.io/apis/x402supply-com/x402supply-com-endpoint-diligence-api/) — The endpoint-diligence API from x402supply-com — 4 operation(s) for endpoint-diligence.
+- [x402supply-com Entity Resolve API](https://apis.io/apis/x402supply-com/x402supply-com-entity-resolve-api/) — The entity-resolve API from x402supply-com — 2 operation(s) for entity-resolve.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [X402Supply Com Agentic Access](https://apis.io/agentic-access/x402supply-com/x402supply-com-agentic-access/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [x402supply-com API Rules](https://apis.io/rules/x402supply-com/x402supply-com-rules/)
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [X402Supply Com Domain Security](https://apis.io/security/x402supply-com/x402supply-com-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://x402supply.com/)
+
+## API Evangelist rating
+
+**Kin Score 25.8** — emerging · rubric 0.25.0 · scored 2026-10-29
+
+| Facet | Score |
+|---|---|
+| Discoverability | 66.7 |
+| Contract quality | 41.6 |
+| Contract governance | 79.1 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 0.0 |
+| Access clarity | 0.0 |
+
+**Agent readiness 27.3** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | derived (partial credit) |
+| OpenAPI Examples | partial |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | distinct |
+
+**Regulatory alignment 10.0** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/x402supply-com/](https://apis.io/providers/x402supply-com/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for x402supply-com: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/x402supply-com/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
